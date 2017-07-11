@@ -1,0 +1,10 @@
+The equation integrated to find the estimate for the total distance is the velocity equation: (7/2)*t.^2 + 3
+Using simpsons rule:
+n = 10 : Area = total distance = 86.667 [m]
+n = 100 : Area = total distance = 86.667 [m]
+Using trapezoidal rule:
+n = 10 : Area = total distance = 87.040 [m]
+n = 100 : Area = total distance = 86.670 [m]
+The hand calculated area value is 86.66666... [m]
+The area calculated using simpsons rule is more accurate thanthe area calculated using the trapezoidal rule.
+using a larger number of intervals produces a more accurate area in both methods.

@@ -1,0 +1,6 @@
+Number of Processes: 4
+Work for process 1: 37488.116621 [Joules]
+Work for process 2: 251975.220000 [Joules]
+Work for process 3: -14998.025450 [Joules]
+Work for process 4: -251976.637500 [Joules]
+Total work done during cycle: 22489.000000 [Joules]

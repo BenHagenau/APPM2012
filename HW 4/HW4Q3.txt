@@ -1,0 +1,1 @@
+Trapezoidal approximation of distance travelled in ten seconds: 118.500 [m]

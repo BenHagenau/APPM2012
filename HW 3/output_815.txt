@@ -1,0 +1,4 @@
+A, y-intercept: -3.90
+B, wavelength/2: 9.03
+Wavelength: 18.06 [cm]
+Uncertainty in wavelength: 0.1 [cm]

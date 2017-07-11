@@ -1,0 +1,2 @@
+The variables you are looking for are 3.000, -1.000, -2.000
+Note that the order of the variables in the output corrospond the the order they are in the equations

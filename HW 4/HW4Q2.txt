@@ -1,0 +1,1 @@
+Trapezoidal approximation of water height in tank at ten minutes: 13.650 [ft]

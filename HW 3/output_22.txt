@@ -1,0 +1,7 @@
+(1): Best straight-line fit = -1.029(t) + 1.743
+(2): Uncertainty in y for the linear fit = 0.609
+(3): Uncertainty in B1 = 0.338 and uncertainty in B0 = 0.507
+(4): Best quadratic-polynomial fit = 0.182(t^2) - 1.055(t) + 1.327
+(5): Uncertainty in y for the polynomial fit = 0.405
+(6): Uncertainty in B4 = 0.282, uncertainty in B3 = 0.340, and uncertainty in B2 = 0.820
+(8): Uncertainty in y at t = 5 using linear and quadratic fit lines = 4.158

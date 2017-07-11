@@ -1,0 +1,8 @@
+t: 10.00, 40.00, 70.00, 100.00, 130.00, 160.00, 
+v: 188.00, 102.00, 60.00, 18.00, 16.00, 5.00, 
+z: 5.26, 4.60, 3.94, 3.28, 2.62, 1.96, 
+m: -0.02
+b: 5.48
+Mean life: 50.11 [1/s]
+Error in mean life at each point respectively: 7.03, 
+Graph is consistent with the rate of decay decreasing exponentially!
